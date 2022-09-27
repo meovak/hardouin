@@ -1,2 +1,0 @@
-# hardouin
-Curated consulting tools
